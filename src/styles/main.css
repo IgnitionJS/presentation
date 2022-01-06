@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  width: 100vw;
+  height: 100vh;
+  font-family: "Bebas Neue", cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+body .main__title {
+  background: linear-gradient(50deg, #67d489 0%, #27a7b6 70%, #118ab2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 20vw;
+}
+
+/*# sourceMappingURL=main.css.map */
