@@ -18,7 +18,8 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: $background-color;
+  background: rgb(241, 250, 238);
+  background: radial-gradient(circle, rgba(241, 250, 238, 1) 0%, rgba(168, 218, 220, 1) 100%);
 }
 
 body .main__title {

@@ -17,7 +17,8 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: #ffffff;
+  background: #f1faee;
+  background: radial-gradient(circle, #f1faee 0%, #a8dadc 100%);
 }
 
 body .main__title {
